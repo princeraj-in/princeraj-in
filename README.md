@@ -33,7 +33,7 @@ I am a **Full-Stack Software Engineer & AI Systems Developer** based in Delhi, I
 
 | 📊 Metric | 📈 Status / Level | 🔍 Focus Area |
 | :--- | :--- | :--- |
-| 🚀 **Active Web Applications** | 3 Live Apps<br/>2 in Beta Testing &nbsp;<img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/badge-beta.svg" alt="Beta" height="14" align="center" /> | [Lensdrop](https://lensdrop.imprince.me) • [City Helpline](https://app.imprince.me) • [imprince.me](https://imprince.me) |
+| 🚀 **Active Web Applications** | 3 Live Apps<br/>2 in Beta Testing &nbsp;<img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/badge-beta.svg" alt="Beta" height="14" align="center" /> | [Lensdrop](https://lensdrop.imprince.me) • [Studolink](https://app.imprince.me) • [imprince.me](https://imprince.me) |
 | 📦 **Open-Source Repositories** | 5 Repositories with MIT Licenses | Community-friendly, well-documented codebases |
 | 🤖 **AI & Autonomous Systems** | Production LLM Architectures | Google Gemini APIs, Agent Workflows & Tooling |
 | 🌐 **Primary Apex Domain** | [imprince.me](https://imprince.me) | Vercel Edge hosting & DNS configuration |
@@ -78,23 +78,23 @@ I am a **Full-Stack Software Engineer & AI Systems Developer** based in Delhi, I
   </p>
 </details>
 
-#### 📍 [City Helpline](https://app.imprince.me) &nbsp; <a href="https://app.imprince.me" target="_blank"><img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/badge-beta.svg" alt="Beta" height="20" align="center" /></a> — *Hyper-Local Student Utility & Living Ecosystem*
+#### 📍 [Studolink](https://app.imprince.me) &nbsp; <a href="https://app.imprince.me" target="_blank"><img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/badge-beta.svg" alt="Beta" height="20" align="center" /></a> — *Hyper-Local Student Utility & Living Ecosystem*
 * **The Problem:** Students moving to new cities struggle to locate verified PGs, hostels, libraries, mess services, and coaching centers.
 * **Engineering Solution:** A comprehensive discovery portal featuring verified merchant listings, user reviews, dynamic category filtering, and location-based sorting.
 * **Key Architecture:** TypeScript, React, Tailwind CSS, and Firestore DB. Includes contributor submission workflows, admin approval dashboards, and granular permission rules.
 * **Status:** Open Source • MIT License • <a href="https://app.imprince.me" target="_blank"><img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/badge-beta.svg" alt="Beta" height="18" align="center" /></a>
-* **Access & Code:** [🚀 Launch Live App (app.imprince.me)](https://app.imprince.me) • [📦 GitHub Repository](https://github.com/princeraj-in/City-Helpline)
+* **Access & Code:** [🚀 Launch Live App (app.imprince.me)](https://app.imprince.me) • [📦 GitHub Repository](https://github.com/princeraj-in/Studolink)
 
 <details>
   <summary>📐 <b>View System Architecture & Moderation Pipeline (Interactive SVG)</b></summary>
   <br/>
   <p align="center">
     <a href="https://app.imprince.me" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/city-helpline-architecture.svg" alt="City Helpline System Architecture & Moderation Pipeline" width="100%" />
+      <img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/city-helpline-architecture.svg" alt="Studolink System Architecture & Moderation Pipeline" width="100%" />
     </a>
   </p>
   <p align="center">
-    <a href="https://app.imprince.me"><b>🔗 Launch City Helpline Web App</b></a> &nbsp;•&nbsp; <a href="https://github.com/princeraj-in/City-Helpline"><b>📦 View Source Code</b></a>
+    <a href="https://app.imprince.me"><b>🔗 Launch Studolink Web App</b></a> &nbsp;•&nbsp; <a href="https://github.com/princeraj-in/Studolink"><b>📦 View Source Code</b></a>
   </p>
 </details>
 
