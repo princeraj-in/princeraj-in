@@ -94,7 +94,7 @@ I am a **Full-Stack Software Engineer & AI Systems Developer** based in Delhi, I
     </a>
   </p>
   <p align="center">
-    <a href="https://app.imprince.me"><b>🔗 Launch Studolink Web App</b></a> &nbsp;•&nbsp; <a href="https://github.com/princeraj-in/Studolink"><b>📦 View Source Code</b></a>
+    <a href="https://studolink.imprince.me"><b>🔗 Launch Studolink Web App</b></a> &nbsp;•&nbsp; <a href="https://github.com/princeraj-in/Studolink"><b>📦 View Source Code</b></a>
   </p>
 </details>
 
