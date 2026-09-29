@@ -78,18 +78,18 @@ I am a **Full-Stack Software Engineer & AI Systems Developer** based in Delhi, I
   </p>
 </details>
 
-#### 📍 [Studolink](https://app.imprince.me) &nbsp; <a href="https://app.imprince.me" target="_blank"><img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/badge-beta.svg" alt="Beta" height="20" align="center" /></a> — *Hyper-Local Student Utility & Living Ecosystem*
+#### 📍 [Studolink](https://studolink.imprince.me) &nbsp; <a href="https://studolink.imprince.me" target="_blank"><img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/badge-beta.svg" alt="Beta" height="20" align="center" /></a> — *Hyper-Local Student Utility & Living Ecosystem*
 * **The Problem:** Students moving to new cities struggle to locate verified PGs, hostels, libraries, mess services, and coaching centers.
 * **Engineering Solution:** A comprehensive discovery portal featuring verified merchant listings, user reviews, dynamic category filtering, and location-based sorting.
 * **Key Architecture:** TypeScript, React, Tailwind CSS, and Firestore DB. Includes contributor submission workflows, admin approval dashboards, and granular permission rules.
 * **Status:** Open Source • MIT License • <a href="https://app.imprince.me" target="_blank"><img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/badge-beta.svg" alt="Beta" height="18" align="center" /></a>
-* **Access & Code:** [🚀 Launch Live App (app.imprince.me)](https://app.imprince.me) • [📦 GitHub Repository](https://github.com/princeraj-in/Studolink)
+* **Access & Code:** [🚀 Launch Live App (studolink.imprince.me)](https://studolink.imprince.me) • [📦 GitHub Repository](https://github.com/princeraj-in/Studolink)
 
 <details>
   <summary>📐 <b>View System Architecture & Moderation Pipeline (Interactive SVG)</b></summary>
   <br/>
   <p align="center">
-    <a href="https://app.imprince.me" target="_blank" rel="noreferrer">
+    <a href="https://studolink.imprince.me" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/princeraj-in/princeraj-in/main/assets/icons/city-helpline-architecture.svg" alt="Studolink System Architecture & Moderation Pipeline" width="100%" />
     </a>
   </p>
